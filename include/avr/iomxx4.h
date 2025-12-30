@@ -272,7 +272,7 @@
 #define MSTR0  4
 #define CPOL0  3
 #define CPHA0  2
-#define SPR01  1
+#define SPR10  1
 #define SPR00  0
 
 #define SPSR0  _SFR_IO8(0x2D)
